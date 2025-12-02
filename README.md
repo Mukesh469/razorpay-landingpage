@@ -2,6 +2,20 @@
 
 Clean, responsive landing page built with React, Vite and Tailwind CSS. This repository contains the UI for a Razorpay-style product highlight landing page with stacked card animations using GSAP.
 
+## 📸 Screenshots
+
+### Desktop View
+![Desktop](./screenshots/desktop.png)
+
+### Mobile View
+![Mobile](./screenshots/mobile.png)
+
+![Mobile](./screenshots/mobile2.png)
+
+### Animation / Tablet View
+![Tablet / Animation](./screenshots/tablet.png)
+
+
 **Tech stack:** `React 19`, `Vite`, `Tailwind CSS`, `GSAP`, `Framer Motion`, `React Router`, `Swiper`.
 
 **Contents:** source files are under `src/` and static assets under `public/` and `src/assets/`.
@@ -82,13 +96,11 @@ npm run preview
 - Fork the repo and create a branch for your feature: `git checkout -b feat/your-feature`
 - Open a pull request with a clear description and screenshots (if UI changes).
 
-**License & attribution**
-- Add your preferred license file (e.g., `LICENSE`) and update this section.
+**License**
+- This project is licensed under the MIT License. See the `LICENSE` file for details: `./LICENSE`.
 
 **Contact / Author**
 - Mukesh Kumar
-- mukesh512004@gmail.com
-- https://github.com/Mukesh469
-
----
+- Gmail: mukesh512004@gmail.com
+- Github: https://github.com/Mukesh469/
 
