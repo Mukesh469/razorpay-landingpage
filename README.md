@@ -86,13 +86,9 @@ npm run preview
 - Add your preferred license file (e.g., `LICENSE`) and update this section.
 
 **Contact / Author**
-- Add your name, email or link to your GitHub profile here.
+- Mukesh Kumar
+- mukesh512004@gmail.com
+- https://github.com/Mukesh469
 
 ---
 
-If you want, I can also:
-- add a GitHub Actions workflow to deploy to GitHub Pages,
-- create a simple `README` screenshot section with images from `public/logos/`, or
-- lint and format the README further.
-
-Happy to make those next changes — which would you like me to do?
